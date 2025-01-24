@@ -1,8 +1,10 @@
 # 👋 Hi, I’m @EarnestAxis5546
  👀 I’m interested in programming
+ 
  🌱 I’m currently learning Java , Lua, C#, C++
 
  💞️ I’m looking to collaborate on RebelSpace
+ 
  🌌 **discord** [[discord server](https://discord.gg/YQGK55KX2z)]
     
 <!---
