@@ -1,13 +1,12 @@
-# 👋 Hi, I’m @EarnestAxis5546
- 👀 I’m interested in programming
- 
- 🌱 I’m currently learning Java , Lua, C#, C++
+# Ernst Riivitse (EarnestAxis)
 
- 💞️ I’m looking to collaborate on RebelSpace
- 
- 🌌 **discord** [[discord server](https://discord.gg/YQGK55KX2z)]
-    
-<!---
-EarnestAxis5546/EarnestAxis5546 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring C# Developer • Game Development Enthusiast • Based in Sweden
+
+---
+
+## About Me
+
+I am an basic-level developer specializing in **C#** with a strong interest in **game development** and software engineering.
+Currently focused on creating a custom build for **Space Station 14** using **RobustToolbox** (KTH-14)
+
+As a self-motivated learner, I am consistenly improving my skills through independent projects, open-source contribution, and freelance opportunities.
