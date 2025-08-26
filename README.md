@@ -5,7 +5,7 @@
 <h1 align="center"> Earnest Riivitse (EarnestAxis5546) </h1>
 
 <p align="center">
-  I'm a dedicated software developer with 12+ years mastering C-family languages and more, building secure, high-performance solutions on <b>Arch Linux</b>. My flagship project is <b>NovaSentinel</b>, an Anti-DDoS system for servers, crafted in C++. Let’s fortify the digital world! 💻
+  I'm a dedicated software developer with 5+ years mastering C-family languages and more, building secure, high-performance solutions on <b>Arch Linux</b>. My flagship project is <b>NovaSentinel</b>, an Anti-DDoS system for servers, crafted in C++. Let’s fortify the digital world! 💻
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## About Me
 
-🌌 **My Journey**: My coding odyssey began with a C program on Arch Linux, sparking a passion for low-level programming and server security. Over 12 years, I’ve mastered C-family languages and expanded into complementary tools and languages, focusing on protecting critical infrastructure from threats like DDoS attacks. My work centers on building systems that are fast, secure, and resilient, whether for enterprise servers, cloud environments, or embedded devices. I’m driven by the thrill of turning complex challenges into robust, elegant solutions.
+🌌 **My Journey**: My coding odyssey began with a C program on Arch Linux, sparking a passion for low-level programming and server security. Over 5 years, I’ve mastered C-family languages and expanded into complementary tools and languages, focusing on protecting critical infrastructure from threats like DDoS attacks. My work centers on building systems that are fast, secure, and resilient, whether for enterprise servers, cloud environments, or embedded devices. I’m driven by the thrill of turning complex challenges into robust, elegant solutions.
 
 🔒 **Coding Philosophy**: Code is my craft—a blend of precision, creativity, and resilience. I live by "design with intent, secure with precision," ensuring every line is optimized, scalable, and fortified. Arch Linux’s minimalist power fuels my workflow, letting me tailor my environment for maximum efficiency. My expertise in C-family languages, combined with modern tools and languages like Rust and Python, allows me to build secure, high-performance systems that stand up to the toughest demands.
 
