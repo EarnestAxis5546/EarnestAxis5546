@@ -5,7 +5,7 @@
 <h1 align="center">🔒 Earnest Riivitse (EarnestAxis5546) 🔒</h1>
 
 <p align="center">
-  I'm a seasoned software developer with 6+  years of mastery in C-family languages, crafting secure, high-performance solutions on <b>Arch Linux</b>. My mission is <b>NovaSentinel</b>, an Anti-DDoS system protecting servers with C++ excellence. Let’s fortify the digital world! 💻
+  I'm a seasoned software developer with 12+ years of mastery in C-family languages, crafting secure, high-performance solutions on <b>Arch Linux</b>. My mission is <b>NovaSentinel</b>, an Anti-DDoS system protecting servers with C++ excellence. Let’s fortify the digital world! 💻
 </p>
 
 <p align="center">
@@ -111,3 +111,4 @@ Let’s protect and innovate together! Reach me at:
 <p align="center">
   <img src="https://img.shields.io/badge/Crafted%20with%20⚡%20on%20Arch%20Linux-1793D1?style=plastic&logo=archlinux&logoColor=white" alt="Crafted on Arch Linux">
 </p>
+
