@@ -1,38 +1,38 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=28&duration=1400&pause=100&color=FF66CC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+EarnestAxis5546!;Earnest+Riivitse+-+C-Family+Wizard;Securing+Servers+on+Arch+Linux" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=26&duration=1300&pause=100&color=FF4081&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+EarnestAxis5546!;Earnest+Riivitse+-+C-Family+Guardian;Securing+Servers+on+Arch+Linux" alt="Typing SVG">
 </p>
 
-<h1 align="center">🔥 Earnest Riivitse (EarnestAxis5546) 🔥</h1>
+<h1 align="center">🛡️ Earnest Riivitse (EarnestAxis5546) 🛡️</h1>
 
 <p align="center">
-  I'm a passionate software developer with 12+ years of expertise in C-family languages, building robust, high-performance solutions on <b>Arch Linux</b>. My focus is <b>NovaSentinel</b>, an advanced Anti-DDoS system for servers, crafted in C++. Let’s secure the digital world together! 🛡️
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Coding+with+Flair-00FFDD?style=plastic&logo=archlinux&logoColor=black" alt="Coding with Flair">
-  <img src="https://img.shields.io/badge/Focus-C--Family+Expertise-FF66CC?style=plastic&logo=c&logoColor=white" alt="C-Family Expertise">
-  <img src="https://img.shields.io/badge/Arch+Linux-Driven-1793D1?style=plastic&logo=archlinux&logoColor=white" alt="Arch Linux Driven">
+  I'm a dedicated software developer with 12+ years mastering C-family languages on <b>Arch Linux</b>. My passion is <b>NovaSentinel</b>, an Anti-DDoS system protecting servers with C++ prowess. Let’s build secure, high-performance solutions together! 💻
 </p>
 
 <p align="center">
-  <img src="https://devicon.dev/devicon.git/icons/circuit/circuit-original.svg" alt="Circuit SVG" width="150" />
+  <img src="https://img.shields.io/badge/Status-Coding+with+Zeal-00F7FF?style=plastic&logo=archlinux&logoColor=black" alt="Coding with Zeal">
+  <img src="https://img.shields.io/badge/Focus-C--Family+Mastery-FF4081?style=plastic&logo=c&logoColor=white" alt="C-Family Mastery">
+  <img src="https://img.shields.io/badge/Arch+Linux-Powered-1793D1?style=plastic&logo=archlinux&logoColor=white" alt="Arch Linux Powered">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F-Security+Driven-FF4081?style=plastic&labelColor=1C2526" alt="Security Driven">
 </p>
 
 ---
 
 ## About Me
 
-🌟 **My Journey**: My coding saga began with a C program on Arch Linux, where I discovered the thrill of low-level programming. Over the past 12 years, I’ve honed my craft, diving deep into C-family languages to build systems that are fast, secure, and reliable. My passion lies in solving complex challenges—whether it’s protecting servers from DDoS attacks or optimizing embedded systems—while keeping performance at the forefront. I thrive on pushing the limits of what code can achieve, always aiming for elegance and efficiency.
+🌌 **My Story**: My coding journey ignited with a C program on Arch Linux, sparking a lifelong passion for low-level programming. Over the past 12 years, I’ve become a master of C-family languages, building systems that are fast, secure, and resilient. My drive is to protect the digital world—whether it’s shielding servers from DDoS attacks or optimizing embedded systems. I thrive on challenges that demand precision, performance, and creativity, always aiming to craft software that stands strong under pressure.
 
-💻 **Coding Philosophy**: To me, coding is an art form, blending creativity with precision. I believe in "plan thoroughly, optimize relentlessly," ensuring every line of code is purposeful, scalable, and maintainable. My tools of choice—Arch Linux and C-family languages—give me the control to craft solutions that stand up to the toughest demands. Whether it’s squeezing every ounce of performance from C++ or leveraging C#’s .NET capabilities, I’m all about delivering software that shines under pressure.
+💾 **Coding Philosophy**: Code is my craft, blending art and science. I live by "design with foresight, optimize with passion," ensuring every line is efficient, scalable, and elegant. Arch Linux’s minimalist power fuels my workflow, letting me focus on what matters: building robust solutions. My love for C-family languages stems from their ability to deliver unmatched control and speed, making them perfect for mission-critical applications like server security.
 
-🐧 **Why Arch Linux & C-Family?**: Arch Linux is my creative playground, offering unmatched flexibility and control to tailor my dev environment. Its minimalist ethos aligns perfectly with my love for efficiency. Pair that with C’s raw power, C++’s modern versatility, C#’s rapid development, and Objective-C’s iOS finesse, and I can build anything from server defenses to mobile apps with precision and speed.
+🐧 **Why Arch Linux & C-Family?**: Arch Linux is my fortress—a lean, customizable environment that lets me tailor every aspect of my dev setup. Paired with C’s raw efficiency, C++’s modern versatility, C#’s .NET agility, and Objective-C’s iOS finesse, I create software that’s both powerful and precise. From kernel-level tweaks to high-level applications, this combo lets me secure and optimize with ease.
 
 ---
 
 ## Skills
 
-My compact toolkit is optimized for performance, with C-family languages and Arch Linux at the core.
+My streamlined toolkit is built for performance and security, centered on C-family languages and Arch Linux.
 
 ### Core Languages
 <p>
@@ -58,62 +58,60 @@ My compact toolkit is optimized for performance, with C-family languages and Arc
 - **Environments**: Arch Linux, Containers
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=earnestaxis5546&theme=algolia&no-frame=true&margin-w=3&margin-h=3&column=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=earnestaxis5546&theme=onedark&no-frame=true&margin-w=2&margin-h=2&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## Project Spotlight
 
-My passion is poured into **NovaSentinel**, a cutting-edge Anti-DDoS system built to protect servers with unmatched efficiency.
+My focus is on **NovaSentinel**, a cutting-edge Anti-DDoS system designed to safeguard servers with unparalleled efficiency.
 
 - **[NovaSentinel](https://github.com/earnestaxis5546/NovaSentinel)** 🛡️  
-  A high-performance Anti-DDoS system for servers, crafted in C++20 on Arch Linux. Designed to detect and mitigate distributed denial-of-service attacks in real time, NovaSentinel leverages multithreaded processing and optimized algorithms to ensure minimal latency and maximum protection. Its lightweight, scalable architecture makes it ideal for enterprise servers, cloud environments, and critical infrastructure. Built with modern C++ standards, it’s a fortress of security running on the power of Arch Linux. (Active Development 🔥)
+  A high-performance Anti-DDoS system for servers, built in C++20 on Arch Linux. NovaSentinel protects enterprise servers and cloud infrastructure from distributed denial-of-service attacks with real-time threat detection, multithreaded packet analysis, and advanced mitigation algorithms. Its lightweight, scalable design ensures minimal latency while maintaining robust security, making it ideal for high-traffic environments. Optimized for performance on Arch Linux, it leverages modern C++ standards to deliver a fortress-like defense. (Active Development 🔥)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=earnestaxis5546&repo=NovaSentinel&theme=material-palenight&show_owner=true&border_radius=16&showЭлементы
-
-show_icons=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=88C0D0" alt="NovaSentinel Repo Card" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=earnestaxis5546&repo=NovaSentinel&theme=dracula&show_owner=true&border_radius=14&show_icons=true&bg_color=282A36&title_color=FF79C6&text_color=F8F8F2&icon_color=50FA7B" alt="NovaSentinel Repo Card" width="55%">
 </p>
 
 ---
 
 ## Statistics
 
-Coding with purpose on Arch Linux! Here’s my GitHub pulse.
+Pushing boundaries on Arch Linux! Here’s my GitHub rhythm.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=earnestaxis5546&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&line_height=30&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=88C0D0&cache_seconds=86400" alt="GitHub Stats" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=earnestaxis5546&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&line_height=28&bg_color=282A36&title_color=FF79C6&text_color=F8F8F2&icon_color=50FA7B&cache_seconds=86400" alt="GitHub Stats" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnestaxis5546&layout=compact&theme=material-palenight&hide_border=true&langs_count=6&card_width=320&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnestaxis5546&layout=compact&theme=dracula&hide_border=true&langs_count=6&card_width=300&bg_color=282A36&title_color=FF79C6&text_color=F8F8F2" alt="Top Languages">
 </p>
 
 ---
 
 ## Connect with Me
 
-Let’s build something epic! Reach me at:
+Let’s secure the future together! Reach me at:
 
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/earnestriivitse/)
 - **X**: [![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/earnestaxis5546)
 - **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:wolkapoika@gmail.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=earnestaxis5546&style=plastic&color=FF66CC&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=earnestaxis5546&style=plastic&color=FF4081&label=Profile+Views" alt="Profile Views">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=140&section=footer&text=EarnestAxis5546&fontSize=28&fontColor=FFFFFF&animation=fadeIn" alt="Footer Slice Animation">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=120&section=footer&text=EarnestAxis5546&fontSize=26&fontColor=FFFFFF&animation=twinkling" alt="Footer Shark Animation">
 </p>
 
 <p align="center">
-  <em>"Code fiercely, protect fearlessly." – Earnest Riivitse</em>
+  <em>"Defend with code, conquer with precision." – Earnest Riivitse</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20with%20⚡%20on%20Arch%20Linux-1793D1?style=plastic&logo=archlinux&logoColor=white" alt="Built on Arch Linux">
+  <img src="https://img.shields.io/badge/Forged%20with%20⚡%20on%20Arch%20Linux-1793D1?style=plastic&logo=archlinux&logoColor=white" alt="Forged on Arch Linux">
 </p>
