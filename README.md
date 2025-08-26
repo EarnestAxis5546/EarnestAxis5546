@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cousine&size=28&duration=1100&pause=70&color=FF6E40&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+EarnestAxis5546!;Earnest+Riivitse+-+C-Family+Sentinel;Securing+Servers+on+Arch+Linux" alt="Typing SVG">
 </p>
 
-<h1 align="center">🛡️ Earnest Riivitse (EarnestAxis5546) 🛡️</h1>
+<h1 align="center"> Earnest Riivitse (EarnestAxis5546) </h1>
 
 <p align="center">
   I'm a dedicated software developer with 12+ years mastering C-family languages and more, building secure, high-performance solutions on <b>Arch Linux</b>. My flagship project is <b>NovaSentinel</b>, an Anti-DDoS system for servers, crafted in C++. Let’s fortify the digital world! 💻
