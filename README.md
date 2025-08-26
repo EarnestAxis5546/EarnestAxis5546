@@ -5,7 +5,7 @@
 <h1 align="center"> Earnest Riivitse (EarnestAxis5546) </h1>
 
 <p align="center">
-  I'm a dedicated software developer with 5+ years mastering C-family languages and more, building secure, high-performance solutions on <b>Arch Linux</b>. My flagship project is <b>NovaSentinel</b>, an Anti-DDoS system for servers, crafted in C++. Let’s fortify the digital world! 💻
+  I'm a dedicated software developer with 5+ years mastering C-family languages and more, building secure, high-performance solutions on <b>Arch Linux</b>. My flagship project is <b>NovaSentinel</b>, an Anti-DDoS system for servers, crafted in C#. Let’s fortify the digital world! 💻
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ My toolkit is optimized for security, performance, and versatility, with C-famil
 My passion drives **[NovaSentinel](https://github.com/earnestaxis5546/NovaSentinel)**, a cutting-edge Anti-DDoS system for server protection.
 
 - **[NovaSentinel](https://github.com/earnestaxis5546/NovaSentinel)** 🛡️  
-  A high-performance Anti-DDoS system built in C++20 on Arch Linux, designed to protect servers and cloud infrastructure from distributed denial-of-service attacks. NovaSentinel leverages real-time threat detection, multithreaded packet analysis, and advanced mitigation algorithms to ensure minimal latency and maximum uptime. Its lightweight, scalable architecture supports enterprise servers, data centers, and critical infrastructure, making it a robust shield against cyber threats. Optimized with modern C++ standards and Arch Linux’s efficiency, it delivers unparalleled security and performance. (Active Development 🔥)
+  A high-performance Anti-DDoS system built in C# on Arch Linux, designed to protect servers and cloud infrastructure from distributed denial-of-service attacks. NovaSentinel leverages real-time threat detection, multithreaded packet analysis, and advanced mitigation algorithms to ensure minimal latency and maximum uptime. Its lightweight, scalable architecture supports enterprise servers, data centers, and critical infrastructure, making it a robust shield against cyber threats. Optimized with modern C++ standards and Arch Linux’s efficiency, it delivers unparalleled security and performance. (Active Development 🔥)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=earnestaxis5546&repo=NovaSentinel&theme=gruvbox&show_owner=true&border_radius=10&show_icons=true&bg_color=282828&title_color=FE8019&text_color=FABD2F&icon_color=FE8019" alt="NovaSentinel Repo Card" width="50%">
