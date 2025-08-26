@@ -5,7 +5,7 @@
 <h1 align="center">🚀 Earnest Riivitse (EarnestAxis5546) 🚀</h1>
 
 <p align="center">
-  I'm a seasoned software developer with over 12 years of expertise in C-family languages, crafting high-performance solutions on <b>Arch Linux</b>. My current focus is <b>NovaSentinel</b>, a state-of-the-art security tool in C++. Let’s build something that redefines what’s possible! 💾
+  I'm a seasoned software developer with over 6 years of expertise in C-family languages, crafting high-performance solutions on <b>Arch Linux</b>. My current focus is <b>NovaSentinel</b>, a state-of-the-art security tool in C++. Let’s build something that redefines what’s possible! 💾
 </p>
 
 <p align="center">
