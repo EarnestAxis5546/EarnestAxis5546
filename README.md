@@ -116,5 +116,5 @@ Let’s secure and innovate together! Reach me at:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Forged%20with%20⚡%20on%20Arch%20Linux-1793D1?style=plastic&logo=archlinux&logoColor=white" alt="Forged on Arch Linux">
+  <img src="https://img.shields.io/badge/Crafted%20with%20⚡%20on%20Arch%20Linux-1793D1?style=plastic&logo=archlinux&logoColor=white" alt="Crafted on Arch Linux">
 </p>
