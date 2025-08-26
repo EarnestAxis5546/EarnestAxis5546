@@ -106,9 +106,8 @@ Let’s secure and innovate together! Reach me at:
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=footer&text=EarnestAxis5546&fontSize=24&fontColor=FFFFFF&animation=fadeIn" alt="Footer Soft Animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=EarnestAxis5546&fontSize=24&fontColor=FFFFFF&animation=scaleIn" alt="Footer Waving Animation">
 </p>
 
 <p align="center">
