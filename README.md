@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=32&duration=2000&pause=300&color=FF3CAC&vCenter=true&center=true&width=650&lines=Welcome+to+EarnestAxis5546's+Hub!;Earnest+Riivitse+-+C-Family+Maestro;Coding+the+Future+on+Arch+Linux" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=32&duration=2000&pause=300&color=FF3CAC&vCenter=true&center=true&width=650&lines=Welcome+to+EarnestAxis5546's+Hub!; Earnest+Riivitse+-+C-Family+Maestro;Coding+the+Future+on+Arch+Linux" alt="Typing SVG">
 </p>
 
 <h1 align="center">🌟 Earnest Riivitse (EarnestAxis5546) 🌟</h1>
