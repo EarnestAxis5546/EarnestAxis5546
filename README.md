@@ -77,6 +77,13 @@ My passion drives **[NovaSentinel](https://github.com/earnestaxis5546/NovaSentin
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=earnestaxis5546&repo=NovaSentinel&theme=gruvbox&show_owner=true&border_radius=10&show_icons=true&bg_color=282828&title_color=FE8019&text_color=FABD2F&icon_color=FE8019" alt="NovaSentinel Repo Card" width="50%">
 </p>
 
+**Lunaris Expanse** 🌠  
+A Space Station 14 server crafted for mature Sexual Roleplay (SERP), inspired by Bluemoon. Built in C# on the Robust Toolbox engine, it features custom mechanics for intimate interactions, deep character development, and atmospheric sci-fi events. Optimized on Arch Linux, it ensures high performance and scalability for players exploring consensual narratives in a vibrant interstellar setting. (Active Development 🔥)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EarnestAxis5546&repo=lunaris-expanse-14&theme=gruvbox&show_owner=true&border_radius=10&show_icons=true&bg_color=282828&title_color=FE8019&text_color=FABD2F&icon_color=FE8019" alt="Lunaris Expanse Repo Card" width="50%">
+</p>
+
 ---
 
 ## Statistics
