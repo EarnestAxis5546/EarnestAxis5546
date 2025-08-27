@@ -98,7 +98,7 @@ Building secure systems on Arch Linux! Here’s my GitHub pulse.
 Let’s secure and innovate together! Reach me at:
 
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](linkedin.com/in/earnest-riivitse-5a3a94380)
-- **X**: [![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/earnestaxis5546)
+- **X**: [![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)]([https://x.com/earnestaxis5546](https://x.com/RedSpaceStat?t=gRi9Xqhm0KdzTQWbt2BB3Q&s=09))
 - **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:wolkapoika@gmail.com)
 
 <p align="center">
