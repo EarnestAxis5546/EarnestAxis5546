@@ -40,7 +40,6 @@ My toolkit is optimized for security, performance, and versatility, with C-famil
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Objective--C-438EFF?style=plastic&logo=apple&logoColor=white" alt="Objective-C">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" alt="Go">
 </p>
