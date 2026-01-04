@@ -35,12 +35,6 @@
 
 </div>
 
-### 📊 Στατιστικά GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EarnestAxis5546&theme=tokyonight" alt="Streak"/>
-</p>
-
 
 ### 🌊 Ας συνδεθούμε!
 _Η Ελλάδα είναι γεμάτη θαύματα — ας φτιάξουμε μαζί λίγα ακόμα με κώδικα!_ 🏺✨
